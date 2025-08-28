@@ -59,13 +59,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\ReorderableList.cs" />
+    <Compile Include="Assets\Scripts\HandwritingAnimation.cs" />
     <Compile Include="Assets\Scripts\AnimationStep.cs" />
     <Compile Include="Assets\Scripts\AnimationFlowController.cs" />
     <Compile Include="Assets\Scripts\DraggableItem.cs" />
     <Compile Include="Assets\Scripts\HandwritingAnimationWithPen.cs" />
     <Compile Include="Assets\Scripts\typewriterUI.cs" />
     <Compile Include="Assets\LetterAnimation.cs" />
-    <Compile Include="Assets\Scripts\HandwritingAnimation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
